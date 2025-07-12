@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("data/cleaned.csv")
 
 # Define entities (stock/index names you want to track)
-entities = ["nifty", "banknifty", "sensex", "gold", "bitcoin", "sbin", "coromandel"]
+entities = ["nifty", "banknifty", "sensex", "banknifty"]
 
 # Create a summary dictionary
 summary = {"Entity": [], "Buy": [], "Sell": [], "Neutral": []}
