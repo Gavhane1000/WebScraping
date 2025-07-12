@@ -17,7 +17,7 @@ This project is a **complete data pipeline** that scrapes financial tweets from 
 ---
 
 ## 📁 Folder Structure
-
+```
 WebScraping/
 │
 ├── data/
@@ -32,7 +32,7 @@ WebScraping/
 ├── screenshot_*.png ← Screenshots from output visualization
 ├── image.png ← Sample output after execution of analysis.py
 └── README.md ← You’re here
-
+```
 ## ⚙️ Steps to Run
 **Note:** 
 1. Pre requesite step is to make sure, to execute loggin.py.
